@@ -2,3 +2,5 @@ streamlit
 torch
 Pillow
 opencv-python
+matplotlib
+numpy
